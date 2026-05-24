@@ -49,21 +49,6 @@ https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-progr
 
 ---
 
-## 📁 Project Structure
-
-```text
-tafe-csharp-oop-skills-assessment/
-│
-├── Program.cs
-├── Classes/
-│   ├── ExampleClass.cs
-│   ├── Student.cs
-│   └── Product.cs
-├── README.md
-```
-
----
-
 ## ▶️ How to Run
 
 ### Using Visual Studio
